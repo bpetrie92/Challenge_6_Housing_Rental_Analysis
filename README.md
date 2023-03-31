@@ -1,6 +1,6 @@
 # Unit 6: Housing Rental Analysis for San Francisco
 
-![image]((https://www.google.ca/search?q=san+francisco+skyline&sxsrf=APwXEdcx_jlR2nD2mxlEDZ8C1BEt8rFSNA:1680296273163&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOs-qzh4f-AhUukYkEHROPDocQ_AUoAXoECAEQAw&biw=1920&bih=961&dpr=1#imgrc=zq_dNMCI30QNVM)
+![image](https://www.google.ca/search?q=san+francisco+skyline&sxsrf=APwXEdcx_jlR2nD2mxlEDZ8C1BEt8rFSNA:1680296273163&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOs-qzh4f-AhUukYkEHROPDocQ_AUoAXoECAEQAw&biw=1920&bih=961&dpr=1#imgrc=zq_dNMCI30QNVM)
 
 ## Background
 
