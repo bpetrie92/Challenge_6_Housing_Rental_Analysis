@@ -18,38 +18,10 @@ Your job is to use your data visualization skills, including aggregation, intera
 
 ##### Build an Interactive Neighborhood Map
 
-##### Compose Your Data Story
-
-### Requirements
-
 #### Calculate and Plot the Housing Units per Year (10 points)
-
-##### To receive all points, you must
 
 #### Calculate and Plot the Average Sale Prices per Square Foot (10 points)
 
-##### To receive all points, you must
-
 #### Compare the Average Sale Prices by Neighbourhood (20 points)
 
-##### To receive all points, you must
-
 #### Build an Interactive Neighbourhood Map (20 points)
-
-##### To receive all points, you must
-
-#### Compose Your Data Story (10 points)
-
-##### To receive all points, you must
-
-#### Coding Conventions and Formatting (10 points)
-
-##### To receive all points, your code must
-
-#### Deployment and Submission (10 points)
-
-##### To receive all points, you must
-
-#### Comments (10 points)
-
-##### To receive all points, your code must
