@@ -1,6 +1,4 @@
-# Challenge_6_Housing_Rental_Analysis
-
-Unit 6: Housing Rental Analysis for San Francisco
+# Unit 6: Housing Rental Analysis for San Francisco
 
 ![Decorative image.](Images/6-4-challenge-image.png)
 
@@ -265,3 +263,7 @@ Based on the visualizations that you created, answer the following questions:
 ##### To receive all points, your code must
 
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
+
+---
+
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
